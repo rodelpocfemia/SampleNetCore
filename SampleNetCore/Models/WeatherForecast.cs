@@ -1,6 +1,6 @@
 using System;
 
-namespace SampleNetCore
+namespace SampleNetCore.Models
 {
     public class WeatherForecast
     {
